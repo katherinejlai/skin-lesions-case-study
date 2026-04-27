@@ -17,7 +17,7 @@ The dataset used in this case study is the HAM10000 dataset, a large collection 
 Due to its size, the full dataset is not included in this repository. Students can access it here:
 https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DBW86T
 
-The necessary metadata is located in the **DATA** folder and includes:
+The necessary metadata is located in the **Data** folder and includes:
 - A cleaned metadata file for modeling
 
 ## Materials
