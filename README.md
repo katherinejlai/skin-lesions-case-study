@@ -5,10 +5,10 @@ This case study explores how machine learning can be used to classify different 
 ## Important Information
 
 This repository contains all materials needed to complete the case study, including:
-- The [case study prompt](Using_ML_to_Classify_Skin_Lesions.pdf)
+- The [Case Study Prompt](Using_ML_to_Classify_Skin_Lesions.pdf)
   - The deliverable instructions
-- A [grading rubric](Skin_Lesion_Case_Study_Rubric.pdf)
-- [Metadata](Data/) and [reference materials](Materials/)
+- A [Grading Rubric](Skin_Lesion_Case_Study_Rubric.pdf)
+- [Metadata](Data/) and [Reference Materials](Materials/)
 
 ## Data
 
