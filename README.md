@@ -28,5 +28,5 @@ The **Reference Materials** folder contains articles and resources that provide 
 - Challenges and limitations of AI in healthcare
 
 Key articles include:
-- [Early Automated Detection System for Skin Cancer Diagnosis Using AI Techniques](Materials/Articles/early_automated_detection_system.pdf)
-- [Melanoma: AI Shows Promise, but Real-World Use Raises Questions](Materials/Articles/melanoma_ai_article.pdf)
+- Mahmoud, N. M., & Soliman, A. M. (2024). Early automated detection system for skin cancer diagnosis using artificial intelligent techniques. *Scientific Reports, 14*, 9749. (https://doi.org/10.1038/s41598-024-59783-0)
+- Morales-Brown, P. (2026, April 9). Dermatologists show highest melanoma diagnostic performance with AI support. *Medical News Today*. (https://www.medicalnewstoday.com/articles/dermatologists-ai-support-highest-melanoma-diagnostic-performance-cancer-detection)
