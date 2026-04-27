@@ -8,7 +8,7 @@ This repository contains all materials needed to complete the case study, includ
 - The [case study prompt](Using_ML_to_Classify_Skin_Lesions.pdf)
   - The deliverable instructions
 - A [grading rubric](Skin_Lesion_Case_Study_Rubric.pdf)
-- Supporting [data](Data/) and [reference materials](Materials/)
+- [Metadata](Data/) and [reference materials](Materials/)
 
 ## Data
 
